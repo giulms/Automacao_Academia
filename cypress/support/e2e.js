@@ -17,4 +17,5 @@
 import './commands'
 import './pages/login.page'
 import './pages/home.page'
-import './pages/register.pages'
+import './pages/register.page'
+import './pages/produto.page'
